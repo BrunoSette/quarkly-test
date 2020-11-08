@@ -140,7 +140,7 @@ export default (() => {
 			<Override
 				slot="SectionContent"
 				width="100%"
-				background="linear-gradient(180deg,rgba(155, 108, 252, 0.15) 0%,transparent 100%) 0 0 no-repeat,#191C23 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-illustration-works-angle.svg?v=2020-11-06T16:36:54.345Z) center center/cover repeat scroll padding-box"
+				background="linear-gradient(180deg,rgba(155, 108, 252, 0.15) 0%,transparent 100%) 0 0 no-repeat,#191C23 url(https://images.unsplash.com/photo-1516280440614-37939bbacd81?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0MjIzN30&w=2000) center center/cover repeat scroll padding-box"
 				height="620px"
 				align-items="center"
 				justify-content="center"
@@ -161,7 +161,7 @@ export default (() => {
 				lg-text-align="center"
 				lg-font="--headline2"
 			>
-				Make a Difference.
+				Fale em Público com Confiança
 			</Text>
 			<Text
 				font="--lead"
