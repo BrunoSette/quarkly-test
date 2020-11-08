@@ -334,7 +334,7 @@ export default (() => {
 					{"        "}
 					<Box
 						width="100%"
-						background="--color-lightD2 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-illustration-sea-first.svg?v=2020-11-06T16:37:39.391Z) center center/100% no-repeat"
+						background="--color-lightD2 url(https://images.unsplash.com/photo-1508166785545-c2dd4c113c66?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0MjIzN30&w=2000) center center/100% no-repeat"
 						margin="0px 0px 0px 0px"
 						padding="0px 0px 60% 0px"
 						height="0px"
@@ -359,7 +359,7 @@ export default (() => {
 					{"        "}
 					<Box
 						width="100%"
-						background="--color-lightD2 url(https://uploads.quarkly.io/5f44d0da669357001e60ed14/images/default-website-illustration-sea-second.svg?v=2020-11-06T17:14:59.136Z) center center/100% no-repeat"
+						background="--color-lightD2 url(https://uploads.quarkly.io/5fa7799e79530b001fd20042/images/E_EMP4110-4208_2256390351322460269.jpg?v=2020-11-08T05:32:51.536Z) center center/100% no-repeat"
 						margin="0px 0px 0px 0px"
 						padding="0px 0px 60% 0px"
 						height="0px"
